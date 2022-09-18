@@ -1,0 +1,44 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const white = Color(0xffffffff);
+  static const black = Color(0xff000000);
+  static const primary = Color(0xffFFA58F);
+  static const colorED1C62 = Color(0xffED1C62);
+  static const color24989C = Color(0xff24989C);
+  static const colorFAF2F2 = Color(0xffFAF2F2);
+  static const color141414 = Color(0xff141414);
+  static const color707070 = Color(0xff707070);
+  static const color9E9B9B = Color(0xff9E9B9B);
+  static const colorF4BA24 = Color(0xffF4BA24);
+  static const color21D1B1 = Color(0xff21D1B1);
+  static const color00E676 = Color(0xff00E676);
+  static const colorE7E8F0 = Color(0xffE7E8F0);
+  static const color313B83 = Color(0xff313B83);
+  static const color517572 = Color(0xff517572);
+  static const color666666 = Color(0xff666666);
+  static const color999999 = Color(0xff999999);
+  static const color403D39 = Color(0xff403D39);
+  static const colorF3F3F3 = Color(0xffF3F3F3);
+  static const colorDBDBDB = Color(0xffDBDBDB);
+  static const colorD3D3D3 = Color(0xffD3D3D3);
+  static const colorFCB21E = Color(0xffFCB21E);
+  static const color3ABCE2 = Color(0xff3ABCE2);
+  static const color9E51A5 = Color(0xff9E51A5);
+  static const color8FCE51 = Color(0xff8FCE51);
+  static const color15BFB4 = Color(0xff15BFB4);
+  static const color4676ED = Color(0xff4676ED);
+  static const colorFF3D00 = Color(0xffFF3D00);
+  static const color55AC00 = Color(0xff55AC00);
+  static const colorC8A6A5 = Color(0xffC8A6A5);
+  static const color00A884 = Color(0xff00A884);
+  static const color252422 = Color(0xff252422);
+  static const color555555 = Color(0xff555555);
+  static const colorCEEFBD = Color(0xffCEEFBD);
+  static const colorC4C4C4 = Color(0xffC4C4C4);
+  static const color333333 = Color(0xff333333);
+  static const color111111 = Color(0xff111111);
+  static const colorBA9A75 = Color(0xffBA9A75);
+  static Color callActionsActiveColor = AppColors.colorFF3D00.withOpacity(.3);
+  static const callActionsInActiveColor = Colors.transparent;
+}
